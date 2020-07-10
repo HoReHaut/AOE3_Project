@@ -1,0 +1,9 @@
+
+
+Prendre les projets GitHub
+https://github.com/Aximem/MoviesAndMe
+https://github.com/iamshaunjp/react-native-tutorial
+
+Faire npm install
+
+Pusher sur git
